@@ -1,1 +1,1 @@
-![acentauripy](acentauri-banner.jpg)
+![acentauripy](acentauri-banner.png)
