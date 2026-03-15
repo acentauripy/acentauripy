@@ -1,3 +1,5 @@
+![acentauripy](acentauri-banner.jpg)
+
 ## Hi there 👋
 
 <!--
